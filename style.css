@@ -1,0 +1,14 @@
+i:hover::before {
+    color: blue;
+    transform: scale(1.3);
+    transition: transform 0.4s;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: blue !important;
+    text-decoration: underline;
+}
